@@ -1,4 +1,4 @@
-# FSM_for_Sequence_Detector
+[# FSM_for_Sequence_Detector
 # EXP NO.6.A. Sequence Detector Using Moore Machine and Mealy Machine
 
 # Aim
@@ -33,3 +33,4 @@ Vivado 2023.1
 # Conclusion 
 The Mealy and Moore state machine for sequence 1011 was designed and successfully simulated using Verilog HDL. The testbench verified both the write and read functionalities by simulating the sequence operations and observing the output waveforms.
 
+](https://github.com/Ronaldroshan/FSM_for_Sequence_Detector/edit/main/README.md)
